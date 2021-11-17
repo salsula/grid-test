@@ -164,7 +164,7 @@ footer {
     width: .75rem;
     height: .75rem;
     border-radius: 100%;
-    background: #56f;
+    background: white;
     box-shadow: 0 0 10px 0 rgba(0,0,0,.5);
     transition: .2s ease;
 }
